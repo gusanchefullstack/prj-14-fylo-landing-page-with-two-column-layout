@@ -14,6 +14,13 @@ module.exports = {
         lightGrayishBlue: "hsl(240, 75%, 98%)",
         lightGray: "hsl(0, 0%, 75%)",
       },
+      backgroundImage: {
+        curveMobile: "url('images/bg-curve-mobile.svg')",
+        curveDesktop: "url('images/bg-curve-desktop.svg')",
+      },
+      backgroundPosition: {
+        "top-4": "center bottom 4rem",
+      },
     },
   },
   plugins: [],
