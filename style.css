@@ -4,6 +4,12 @@
 
 @layer components {
   .bullet {
-    @apply my-2;
+    @apply my-2 hover:text-desaturatedBlue hover:cursor-pointer;
+  }
+  .social-icon {
+    @apply border border-lightGray flex justify-center items-center w-7 h-7 rounded-full hover:cursor-pointer hover:text-desaturatedBlue hover:border-desaturatedBlue;
+  }
+  .contact-link {
+    @apply my-2 hover:cursor-pointer hover:text-desaturatedBlue;
   }
 }
