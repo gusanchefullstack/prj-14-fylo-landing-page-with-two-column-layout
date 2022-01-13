@@ -31,7 +31,7 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [@FrontendMentor.io](https://your-solution-url.com)
+- Solution URL: [@FrontendMentor.io](https://www.frontendmentor.io/solutions/fylo-landing-page-with-two-column-layout-challenge-hub-kL6p3BTjR)
 - Live Site URL: [@Vercel:](http://prj-14-fylo-landing-page-with-two-column-layout.vercel.app/)
 
 ## My process
